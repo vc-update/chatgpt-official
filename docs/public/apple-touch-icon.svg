@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180" role="img" aria-label="ChatGPT Official Guide app icon">
+  <rect width="180" height="180" rx="40" fill="#0f172a"/>
+  <circle cx="90" cy="90" r="64" fill="#0f766e"/>
+  <path d="M55 86c0-21 16.5-36.5 38.5-36.5C115 49.5 130 64 130 84c0 19.5-14.5 33.5-35.5 33.5H78L55 137v-23c-7-6.4-10.5-15.8-10.5-28Z" fill="#fff"/>
+  <circle cx="80" cy="84" r="7" fill="#2563eb"/>
+  <circle cx="102" cy="84" r="7" fill="#2563eb"/>
+</svg>

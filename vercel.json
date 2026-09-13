@@ -1,0 +1,411 @@
+{
+  "buildCommand": "npm run build",
+  "installCommand": "npm install",
+  "outputDirectory": "docs/.vitepress/dist",
+  "cleanUrls": true,
+  "headers": [
+    {
+      "source": "/(.*)",
+      "headers": [
+        {
+          "key": "X-Content-Type-Options",
+          "value": "nosniff"
+        },
+        {
+          "key": "Referrer-Policy",
+          "value": "strict-origin-when-cross-origin"
+        },
+        {
+          "key": "Permissions-Policy",
+          "value": "camera=(), microphone=(), geolocation=()"
+        },
+        {
+          "key": "X-Frame-Options",
+          "value": "SAMEORIGIN"
+        },
+        {
+          "key": "Content-Security-Policy-Report-Only",
+          "value": "default-src 'self'; base-uri 'self'; frame-ancestors 'self'; form-action 'self'; object-src 'none'; img-src 'self' https: data:; style-src 'self' 'unsafe-inline'; script-src 'self' 'unsafe-inline' 'unsafe-eval'; font-src 'self' data:; connect-src 'self' https:"
+        }
+      ]
+    }
+  ],
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.chatgpt-official.com"
+        }
+      ],
+      "destination": "https://chatgpt-official.com/$1",
+      "permanent": true
+    },
+    {
+      "source": "/guides/chatgpt-official-url-check",
+      "destination": "/guides/chatgpt-official-entry",
+      "permanent": true
+    },
+    {
+      "source": "/guides/chatgpt-official-url-login-2026",
+      "destination": "/guides/chatgpt-official-entry",
+      "permanent": true
+    },
+    {
+      "source": "/guides/chatgpt-official-entry-url-web-app-safety-2026-06",
+      "destination": "/guides/chatgpt-official-entry",
+      "permanent": true
+    },
+    {
+      "source": "/guides/chatgpt-official-login-app-download-safety-checklist-2026-06",
+      "destination": "/guides/chatgpt-official-entry",
+      "permanent": true
+    },
+    {
+      "source": "/guides/chatgpt-official-url-entry-login-web-chinese-domestic-2026",
+      "destination": "/guides/chatgpt-official-entry",
+      "permanent": true
+    },
+    {
+      "source": "/guides/chatgpt-official-url-entry-login-web-chinese-2026-07",
+      "destination": "/guides/chatgpt-official-entry",
+      "permanent": true
+    },
+    {
+      "source": "/guides/chatgpt-official-url-china-guide-2026",
+      "destination": "/guides/chatgpt-official-entry",
+      "permanent": true
+    },
+    {
+      "source": "/guides/chatgpt-official-website-guide-2026",
+      "destination": "/guides/chatgpt-official-entry",
+      "permanent": true
+    },
+    {
+      "source": "/guides/chatgpt-official-website-login-china-guide-2026",
+      "destination": "/guides/chatgpt-official-entry",
+      "permanent": true
+    },
+    {
+      "source": "/guides/chatgpt-official-website-china-login-guide-2026",
+      "destination": "/guides/chatgpt-official-entry",
+      "permanent": true
+    },
+    {
+      "source": "/guides/chatgpt-official-website-china-login-guide-2026-20260708-1",
+      "destination": "/guides/chatgpt-official-entry",
+      "permanent": true
+    },
+    {
+      "source": "/guides/chatgpt-official-website-china-tutorial-2026",
+      "destination": "/guides/chatgpt-official-entry",
+      "permanent": true
+    },
+    {
+      "source": "/guides/chatgpt-official-website-url-app-download-fake-site-2026-07",
+      "destination": "/guides/chatgpt-official-entry",
+      "permanent": true
+    },
+    {
+      "source": "/guides/chatgpt-official-website-url-login-app-download-fake-site-2026-07-02",
+      "destination": "/guides/chatgpt-official-entry",
+      "permanent": true
+    },
+    {
+      "source": "/guides/chatgpt-official-url-fake-site-login-security-2026",
+      "destination": "/guides/chatgpt-official-entry",
+      "permanent": true
+    },
+    {
+      "source": "/guides/chatgpt-official-entrance-openai-address-mirror-login-security-2026",
+      "destination": "/guides/chatgpt-official-entry",
+      "permanent": true
+    },
+    {
+      "source": "/guides/chatgpt-official-entrance-openai-mirror-guide-2026",
+      "destination": "/guides/chatgpt-official-entry",
+      "permanent": true
+    },
+    {
+      "source": "/guides/chatgpt-official-entry-openai-address-chinese-web-domestic-mirror-avoid-20260710-1",
+      "destination": "/guides/chatgpt-official-entry",
+      "permanent": true
+    },
+    {
+      "source": "/guides/chatgpt-official-entry-openai-address-chinese-web-mirror-security-20260708",
+      "destination": "/guides/chatgpt-official-entry",
+      "permanent": true
+    },
+    {
+      "source": "/guides/chatgpt-official-entry-openai-chinese-web-mirror-avoid-pitfalls-20260709-3",
+      "destination": "/guides/chatgpt-official-entry",
+      "permanent": true
+    },
+    {
+      "source": "/guides/chatgpt-official-entry-openai-chinese-web-mirror-identify-20260709-2",
+      "destination": "/guides/chatgpt-official-entry",
+      "permanent": true
+    },
+    {
+      "source": "/guides/chatgpt-official-openai-entry-chinese-web-domestic-mirror-login-avoid-20260709-4",
+      "destination": "/guides/chatgpt-official-entry",
+      "permanent": true
+    },
+    {
+      "source": "/guides/chatgpt-official-openai-entry-chinese-web-mirror-avoid-pitfalls-20260709",
+      "destination": "/guides/chatgpt-official-entry",
+      "permanent": true
+    },
+    {
+      "source": "/guides/chatgpt-guanwang-rukou-bianbie-2026",
+      "destination": "/guides/chatgpt-official-entry",
+      "permanent": true
+    },
+    {
+      "source": "/guides/chatgpt-official-entry-complete-official-web-chinese-api-plus-2026-07-02",
+      "destination": "/guides/chatgpt-official-entry",
+      "permanent": true
+    },
+    {
+      "source": "/guides/chatgpt-official-chinese-ultimate-guide-gpt5-gpt4o-mirror-register-20260711",
+      "destination": "/guides/chatgpt-official-entry",
+      "permanent": true
+    },
+    {
+      "source": "/guides/openai-chatgpt-official-entry-2026",
+      "destination": "/guides/chatgpt-official-entry",
+      "permanent": true
+    },
+    {
+      "source": "/guides/openai-chatgpt-official-entrance-2026",
+      "destination": "/guides/chatgpt-official-entry",
+      "permanent": true
+    },
+    {
+      "source": "/guides/openai-chatgpt-official-portal-2026",
+      "destination": "/guides/chatgpt-official-entry",
+      "permanent": true
+    },
+    {
+      "source": "/guides/openai-chatgpt-official-how-to-enter-url-web-account-security-2026-07-02",
+      "destination": "/guides/chatgpt-official-entry",
+      "permanent": true
+    },
+    {
+      "source": "/guides/openai-chatgpt-login-entry-security-2026",
+      "destination": "/guides/chatgpt-account-register-login",
+      "permanent": true
+    },
+    {
+      "source": "/guides/openai-official-entry-chatgpt-register-login-email-security-20260713",
+      "destination": "/guides/chatgpt-account-register-login",
+      "permanent": true
+    },
+    {
+      "source": "/guides/chatgpt-login",
+      "destination": "/guides/chatgpt-account-register-login",
+      "permanent": true
+    },
+    {
+      "source": "/guides/chatgpt-login-entrance-openai-account-app-download-safety-2026",
+      "destination": "/guides/chatgpt-account-register-login",
+      "permanent": true
+    },
+    {
+      "source": "/guides/chatgpt-official-login-failed-not-open-access-register-china-2026-07-02",
+      "destination": "/guides/chatgpt-official-website-cannot-open",
+      "permanent": true
+    },
+    {
+      "source": "/guides/chatgpt-official-entry-not-open-web-login-mirror-2026-07",
+      "destination": "/guides/chatgpt-official-website-cannot-open",
+      "permanent": true
+    },
+    {
+      "source": "/guides/chatgpt-cannot-access",
+      "destination": "/guides/chatgpt-official-website-cannot-open",
+      "permanent": true
+    },
+    {
+      "source": "/guides/chatgpt-web-version",
+      "destination": "/guides/chatgpt-web-version-login-guide",
+      "permanent": true
+    },
+    {
+      "source": "/guides/chatgpt-official-web-entry-chinese-domestic-login-2026-06",
+      "destination": "/guides/chatgpt-web-version-login-guide",
+      "permanent": true
+    },
+    {
+      "source": "/guides/chatgpt-guanwang-zhongwenban-wangyeban-guide-2026",
+      "destination": "/guides/chatgpt-web-version-login-guide",
+      "permanent": true
+    },
+    {
+      "source": "/guides/chatgpt-app-download",
+      "destination": "/guides/chatgpt-app-official-download",
+      "permanent": true
+    },
+    {
+      "source": "/guides/chatgpt-app-download-official-windows-ios-android-2026-06",
+      "destination": "/guides/chatgpt-app-official-download",
+      "permanent": true
+    },
+    {
+      "source": "/guides/chatgpt-official-app-download-2026",
+      "destination": "/guides/chatgpt-app-official-download",
+      "permanent": true
+    },
+    {
+      "source": "/guides/chatgpt-official-entry-webap-app-download-china-access-2026-07",
+      "destination": "/guides/chatgpt-app-official-download",
+      "permanent": true
+    },
+    {
+      "source": "/guides/chatgpt-guanwang-app-guonei-gpt5-gpt4o-gpt-image-2-2026",
+      "destination": "/guides/chatgpt-how-to-use",
+      "permanent": true
+    },
+    {
+      "source": "/guides/chatgpt-china-official-mirror-complete-solution-2026-06",
+      "destination": "/guides/chatgpt-china-access",
+      "permanent": true
+    },
+    {
+      "source": "/guides/chatgpt-domestic-use-choices",
+      "destination": "/guides/chatgpt-china-access",
+      "permanent": true
+    },
+    {
+      "source": "/guides/chatgpt-chinese-china-access-webguide-2026",
+      "destination": "/guides/chatgpt-chinese",
+      "permanent": true
+    },
+    {
+      "source": "/guides/chatgpt-chinese-openai-entry-mirror-guide-2026",
+      "destination": "/guides/chatgpt-chinese",
+      "permanent": true
+    },
+    {
+      "source": "/guides/chatgpt-chinese-version-not-official",
+      "destination": "/guides/chatgpt-chinese",
+      "permanent": true
+    },
+    {
+      "source": "/guides/chatgpt-chinese-mirror-sites-2026",
+      "destination": "/guides/chatgpt-chinese",
+      "permanent": true
+    },
+    {
+      "source": "/guides/openai-official-vs-chatgpt-chinese-difference-2026",
+      "destination": "/guides/chatgpt-chinese",
+      "permanent": true
+    },
+    {
+      "source": "/guides/chatgpt-official-entry-vs-chinese-entry-2026",
+      "destination": "/guides/chatgpt-chinese",
+      "permanent": true
+    },
+    {
+      "source": "/guides/chatgpt-official-entry-vs-chinese-mirror-2026",
+      "destination": "/guides/chatgpt-chinese",
+      "permanent": true
+    },
+    {
+      "source": "/guides/chatgpt-official-entry-vs-chinese-version-2026",
+      "destination": "/guides/chatgpt-chinese",
+      "permanent": true
+    },
+    {
+      "source": "/guides/chatgpt-official-vs-chinese-entry-guide-2026",
+      "destination": "/guides/chatgpt-chinese",
+      "permanent": true
+    },
+    {
+      "source": "/guides/chatgpt-mirror-site-safety",
+      "destination": "/guides/chatgpt-mirror-sites-safety",
+      "permanent": true
+    },
+    {
+      "source": "/guides/chatgpt-mirror-sites",
+      "destination": "/guides/chatgpt-mirror-sites-safety",
+      "permanent": true
+    },
+    {
+      "source": "/guides/chatgpt-api-key-price-call-middle-platform-safe-2026-06",
+      "destination": "/guides/chatgpt-api-domestic-call-key-price-zeoapi-2026",
+      "permanent": true
+    },
+    {
+      "source": "/guides/chatgpt-api-official-key-price-call-zeoapi-china-2026-07",
+      "destination": "/guides/chatgpt-api-domestic-call-key-price-zeoapi-2026",
+      "permanent": true
+    },
+    {
+      "source": "/guides/codex-official-entry-openai-codex-download-cli-code-china-2026-07-02",
+      "destination": "/guides/openai-codex-official-entry-cli-cloud-2026-06",
+      "permanent": true
+    },
+    {
+      "source": "/guides/codex-official-entry-openai-download-cli-china-2026-07",
+      "destination": "/guides/openai-codex-official-entry-cli-cloud-2026-06",
+      "permanent": true
+    },
+    {
+      "source": "/guides/gpt-image-2-official-entry-chatgpt-image-api-prompt-2026-07",
+      "destination": "/guides/gpt-image-2-official-entry-api-chatgpt-images-2026-06",
+      "permanent": true
+    },
+    {
+      "source": "/guides/gpt-image-2-official-entry-chatgpt-image-api-prompt-web-2026-07-02",
+      "destination": "/guides/gpt-image-2-official-entry-api-chatgpt-images-2026-06",
+      "permanent": true
+    },
+    {
+      "source": "/guides/chatgpt-official-openai-entry-chinese-web-gpt56-register-login-20260710-2",
+      "destination": "/guides/chatgpt-official-entry-gpt56-sol-terra-luna-chinese-web-guide-20260710",
+      "permanent": true
+    },
+    {
+      "source": "/guides/chatgpt-official-entry-chinese-web-tutorial-2026",
+      "destination": "/guides/chatgpt-how-to-use",
+      "permanent": true
+    },
+    {
+      "source": "/guides/chatgpt-official-entry-verify-2026",
+      "destination": "/guides/chatgpt-official-entry",
+      "permanent": true
+    },
+    {
+      "source": "/guides/openai-chatgpt-chinese-guide-gpt5-o3-models-2026",
+      "destination": "/guides/chatgpt-account-register-login",
+      "permanent": true
+    },
+    {
+      "source": "/guides/chatgpt-download-official-windows-mac-iphone-android-web-20260719",
+      "destination": "/guides/chatgpt-app-official-download",
+      "permanent": true
+    },
+    {
+      "source": "/guides/chatgpt-official-download-windows-store-mac-web-check-20260723",
+      "destination": "/guides/chatgpt-app-official-download",
+      "permanent": true
+    },
+    {
+      "source": "/guides/chatgpt-official-register-login-email-google-apple-verification-20260719",
+      "destination": "/guides/chatgpt-account-register-login",
+      "permanent": true
+    },
+    {
+      "source": "/guides/chatgpt-official-website-entry-real-or-fake-2026",
+      "destination": "/guides/chatgpt-official-entry",
+      "permanent": true
+    },
+    {
+      "source": "/guides/gpt56-pro-plans-availability-not-visible-20260711",
+      "destination": "/guides/chatgpt-official-entry-gpt56-sol-plans-not-visible-20260711",
+      "permanent": true
+    }
+  ]
+}

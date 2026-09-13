@@ -1,0 +1,14 @@
+.vercel
+node_modules/
+docs/.vitepress/dist/
+docs/.vitepress/cache/
+research/
+internal/
+.playwright-cli/
+.chrome-*/
+output/
+*.log
+*.local
+*.env
+!.env.example
+*.DS_Store

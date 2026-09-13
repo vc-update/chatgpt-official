@@ -1,0 +1,25 @@
+{
+  "name": "chatgpt-official",
+  "version": "1.0.0",
+  "description": "ChatGPT Official Guide: independent Chinese guides for ChatGPT official entry, Chinese usage, and practical tutorials.",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vitepress dev docs --host 0.0.0.0",
+    "seo:consolidate": "node scripts/seo-consolidate.mjs",
+    "build": "vitepress build docs",
+    "preview": "vitepress preview docs --host 0.0.0.0"
+  },
+  "keywords": [
+    "chatgpt",
+    "chatgpt官网",
+    "chatgpt中文版",
+    "chatgpt官方",
+    "chatgpt怎么用"
+  ],
+  "author": "chatgpt-official.com",
+  "license": "MIT",
+  "devDependencies": {
+    "vitepress": "^1.6.4"
+  }
+}

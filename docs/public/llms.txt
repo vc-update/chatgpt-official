@@ -1,0 +1,88 @@
+# ChatGPT 独立指南
+
+> 面向中文用户的非官方 ChatGPT 使用指南，覆盖官方入口核验、中文版与国内使用、账号和浏览器故障、文件图片工作流及 AI 工具边界。本站不属于 OpenAI，官方信息以 chatgpt.com、openai.com 及其帮助页面为准。
+
+## Site identity
+
+- [首页](https://chatgpt-official.com/): 站点定位、核心入口和最新内容。
+- [关于本站](https://chatgpt-official.com/about): 编辑主体、独立身份、核验方法和商业关系。
+- [编辑与内容政策](https://chatgpt-official.com/editorial-policy): 来源、测试、AI 辅助、商业链接和更正规则。
+- [隐私声明](https://chatgpt-official.com/privacy): 静态网站、基础技术日志和第三方链接说明。
+- [最新更新](https://chatgpt-official.com/latest/): 按最后核验日期排列的内容清单。
+
+## 核心入口与使用
+
+- [ChatGPT官网入口网页版：chatgpt.com登录地址、真假页面核验与国内访问排查【2026年9月】](https://chatgpt-official.com/guides/chatgpt-official-entry): ChatGPT官网入口网页版是哪个？本文核对 chatgpt.com 登录地址与 openai.com，给出网页版登录步骤、30 秒真假页面核验、国内打不开与 Access Denied 排查顺序及账号安全清单。
+- [Gemini官网怎么确认？官方入口、网页版登录与镜像站辨别核验清单【2026年9月】](https://chatgpt-official.com/guides/gemini-official-entry-web-login-mirror-verify-2026-09): 想找 Gemini 官网又怕误入镜像站？本文给出 Google 官方域名核验清单、网页版登录步骤、地区不可用排查顺序，以及官网、DeepMind 模型页与 Gemini API 三个入口的区别，帮你确认真官网。
+- [OpenAI官网入口怎么进？ChatGPT、API平台与帮助中心地址核验【2026年9月更新】](https://chatgpt-official.com/guides/openai-official-entry-chatgpt-api-platform-help-download-difference-20260721): 面向搜索OpenAI官网入口的中文用户，用一张对照表拆开openai.com、chatgpt.com、platform.openai.com、help.openai.com和status.openai.com各自的用途，给出地址核验特征、四步识别仿冒站点的清单、国内访问失败的排查思路与事实边界。更新时间仅标识本文修订批次，不承诺未公开的页面变化。
+- [ChatGPT 网页版使用教程：登录、文件上传、历史记录与多设备【2026国内完整指南】](https://chatgpt-official.com/guides/chatgpt-web-version-login-guide): ChatGPT网页版怎么用？本文覆盖官方入口、注册登录、文件上传、聊天记录、多设备同步、手机浏览器、常见错误和第三方中文平台边界。
+- [ChatGPT怎么用？从注册登录到提问、文件、图片与排错完整教程【2026年8月】](https://chatgpt-official.com/guides/chatgpt-how-to-use): ChatGPT怎么用？本文从官方网页版登录开始，按首次提问、追问、文件和图片处理、中文设置、模型选择、结果核验与常见错误排查一步步说明，适合中文新手。
+- [OpenAI开发者平台登录：platform.openai.com、API Key、项目与账单核验【2026年8月】](https://chatgpt-official.com/guides/openai-developer-platform-login-api-key-project-billing-20260825): OpenAI开发者平台登录不上怎么办？本文区分 platform.openai.com、ChatGPT网页与API入口，按账号、组织、项目权限、API Key、用量、账单、浏览器会话和服务状态给出核对顺序，适合排查项目为空、Key调用失败与账单异常。
+- [Codex官网入口网页版：OpenAI Codex、ChatGPT、CLI与桌面App地址核验【2026年8月】](https://chatgpt-official.com/guides/openai-codex-official-entry-cli-cloud-2026-06): Codex官网入口网页版到底该打开哪个地址？本文按网页版、CLI、桌面 App 和云端任务四种形态拆开入口，核对 chatgpt.com/codex、openai.com/codex、developers.openai.com/codex 与 github.com/openai/codex 的用途边界，并给出真假页面辨别清单。
+- [GPT-5.6 Sol、Terra、Luna 有什么区别？适用任务与模型选择【2026年8月】](https://chatgpt-official.com/guides/chatgpt-official-entry-gpt56-sol-terra-luna-chinese-web-guide-20260710): GPT-5.6 Sol、Terra、Luna有什么区别？网页版怎么确认当前对话版本、在哪切换模型？本文按复杂推理、日常工作、高吞吐和低延迟任务解释三个层级的定位与选择方法。
+- [ChatGPT中文版和官网版有什么区别？中文界面设置、回答语言与官方说明【2026年8月】](https://chatgpt-official.com/guides/chatgpt-chinese): ChatGPT中文版和官网版有什么区别？本文说明官方没有独立命名的中文版、如何把界面设为中文、如何让 ChatGPT 稳定用中文回答，以及官方服务与第三方中文平台的边界。
+- [ChatGPT 官网注册登录教程：邮箱、Google、Apple 与验证失败排查【2026年8月】](https://chatgpt-official.com/guides/chatgpt-account-register-login): ChatGPT官网注册登录教程，说明邮箱、Google、Apple登录方式、验证码收不到、登录错账号、聊天记录为空和账号安全排查。
+- [ChatGPT 中文版使用网站哪个好？网页入口、多模型、文件上传与隐私检查【2026年7月】](https://chatgpt-official.com/guides/chatgpt-chinese-websites-comparison-files-privacy-20260731): ChatGPT中文版使用网站哪个好？本文比较ChatGPT官网中文界面与第三方中文平台，按写作、多模型、文件上传、图片、语音视频、Codex和隐私需求选择入口。
+- [ChatGPT官网登录：验证码收不到、账号找回与异常登录排查【2026年7月更新】](https://chatgpt-official.com/guides/chatgpt-official-login-code-account-recovery-security-troubleshoot-20260724): 面向ChatGPT官网登录遇到验证码收不到、空账号、账号找回或异常活动的用户，按入口、原登录方式、邮箱链路、浏览器会话与账号安全逐层排查，并整理共享设备退出和异常提醒处理方法。
+- [ChatGPT官网中文版免费吗？官方免费层、网页版入口与账号要求【2026年7月更新】](https://chatgpt-official.com/guides/chatgpt-official-chinese-free-tier-web-entry-account-20260724): 本文面向初次使用ChatGPT的中文用户，围绕官网网页版是否免费、中文界面如何理解、官方入口怎样核验、账号注册前要检查什么、免费层功能边界怎样确认、第三方平台如何区分等问题，提供可直接照做的核对步骤。文章不提供ChatGPT对话、代注册、代充值、镜像入口或文件处理服务，只帮助读者判断自己看到的页面是否可信，以及在免费层内如何安全开始使用。
+- [ChatGPT官网套餐怎么选？Free、Go、Plus、Pro与API区别核对指南【2026年7月】](https://chatgpt-official.com/guides/chatgpt-official-free-go-plus-pro-api-plan-difference-guide-20260720): 本文围绕ChatGPT官网套餐，面向正在比较Free、Go、Plus、Pro与API的个人、团队和开发者，帮助核对网页订阅、文件图片代码能力、付款边界与避坑要点。内容同时覆盖ChatGPT网页订阅套餐与API计费边界的操作核对、常见错误、真实案例与风险边界，方便读者按步骤完成检查。
+- [ChatGPT 国内怎么使用](https://chatgpt-official.com/guides/chatgpt-china-access): ChatGPT 国内怎么使用的完整指南，整理官网访问、ChatGPT 中文版镜像、多模型工具站、注册登录、安全判断和常见问题。
+
+## 下载、安全与排查
+
+- [OpenAI API Python教程：环境变量、Responses API最小调用与模型核验【2026年9月】](https://chatgpt-official.com/guides/openai-api-python-minimal-responses-env-model-20260912): OpenAI API Python怎么调用？本文从创建项目、保存API Key、安装SDK、编写Responses API最小示例到401、403、404、429排错，说明ChatGPT网页、OpenAI API和第三方接口的区别。
+- [Codex下载：OpenAI Codex官方下载地址、Windows/macOS安装与真假辨别【2026年9月】](https://chatgpt-official.com/guides/codex-download-official-address-windows-macos-verify-2026-09): 2026年9月整理OpenAI Codex的官方下载路径：openai.com/codex官网入口、GitHub官方仓库、Codex CLI（npm）与桌面App在Windows/macOS上的获取方式，附真假下载页辨别、国内网络与合规提醒、首次登录与报错排查清单。
+- [OpenAI API调用失败怎么办？401、429、模型权限与环境变量排查【2026年8月】](https://chatgpt-official.com/guides/openai-api-401-429-model-permission-environment-troubleshoot-20260826): OpenAI API调用失败、401认证错误或429限流怎么办？本文按API Key、环境变量、项目权限、模型可用性、余额账单和请求频率给出排查顺序，区分代码问题与服务状态。
+- [ChatGPT Plus怎么取消自动续费？网页、App Store、Google Play订阅退款核对【2026年8月】](https://chatgpt-official.com/guides/chatgpt-plus-cancel-subscription-refund-web-app-store-20260825): ChatGPT Plus怎么取消自动续费或申请退款？本文区分网页订阅、Apple App Store、Google Play和第三方付款渠道，说明取消入口、当前周期、退款申请、重复扣款、错误账号与订单凭证的核对方法，避免把取消订阅误认为已经退款。
+- [ChatGPT Plus和中文版有什么区别？官网、中文平台与多模型入口选择指南【2026年8月】](https://chatgpt-official.com/guides/chatgpt-plus-vs-chinese): ChatGPT Plus和中文版有什么区别？本文从账号归属、官方入口、模型、隐私、注册和使用场景比较官网与第三方中文平台，并给出选择步骤。
+- [ChatGPT官网下载电脑版：Windows/Mac官方安装包、真假辨别与网页版对比【2026年8月】](https://chatgpt-official.com/guides/chatgpt-app-official-download): 面向电脑用户的ChatGPT官网下载指南：Windows、Mac官方入口、官方安装包核验、桌面端与网页版功能对比、数据同步、安装失败排查与假安装包识别。
+- [ChatGPT 上传文件失败怎么办？文件大小、次数限制与未知错误排查【2026年7月更新】](https://chatgpt-official.com/guides/chatgpt-file-upload-failed-limits-guide-20260728): ChatGPT 上传文件失败怎么办？本文核对官方文件大小与次数限制，并按 PDF、Word、Excel、图片上传很慢、未知错误和已达上限给出排查顺序。
+- [ChatGPT官网打不开的原因：Access Denied、地区限制和浏览器排查](https://chatgpt-official.com/guides/chatgpt-official-website-cannot-open): 系统排查 ChatGPT 官网打不开、Access Denied、白屏、登录失败和国内访问不稳定的原因。
+- [ChatGPT无法发送消息怎么办？发送按钮无反应、Network Error、请求失败与服务故障排查【2026年8月】](https://chatgpt-official.com/guides/chatgpt-cannot-send-message-button-network-error-20260805): ChatGPT无法发送消息、发送按钮无反应或提示Network Error怎么办？本文按服务状态、网络、浏览器会话、账号和内容请求给出排查顺序。
+- [OpenAI官网入口：ChatGPT服务状态怎么看？登录异常和浏览器排查【2026年7月】](https://chatgpt-official.com/guides/chatgpt-status-page-local-troubleshoot-20260713): OpenAI官网入口打开后 ChatGPT 服务状态怎么看？本文区分服务端故障、登录异常与本地浏览器问题，给出安全排查顺序。
+- [ChatGPT图片生成失败怎么办？一直转圈、额度限制、内容政策与服务故障排查【2026年8月】](https://chatgpt-official.com/guides/chatgpt-image-generation-failed-spinner-quota-policy-20260804): ChatGPT图片生成失败、一直转圈或提示额度限制怎么办？本文按服务故障、账号额度、内容政策、提示词、浏览器和图片下载问题给出排查步骤。
+- [ChatGPT生成的文件下载不了怎么办？此文件已不再可用、Download failed与File Not Found排查【2026年8月】](https://chatgpt-official.com/guides/chatgpt-generated-file-download-failed-expired-20260803): ChatGPT生成的文件下载不了怎么办？本文按文件链接过期、Download failed、File Not Found、下载按钮无反应、0KB文件和Custom GPT设置给出排查步骤。
+- [ChatGPT国内镜像网站整理（2026年最新）](https://chatgpt-official.com/guides/chatgpt-mirror-sites-safety): ChatGPT国内镜像网站怎么选？本文整理SnakeGPT、GPTCat、ZeoGPT三类第三方中文平台，比较模型、注册方式、文件与多模态能力，并提供隐私和账号安全检查清单。
+- [ChatGPT Plus 国内怎么开通？PayPal、Apple、Google Pay 支付失败与第三方替代方案【2026年7月】](https://chatgpt-official.com/guides/chatgpt-plus-china-payment-failed-paypal-apple-google-pay-20260731): ChatGPT Plus国内怎么开通？本文区分网页银行卡、Apple App Store、Google Play与PayPal显示情况，排查支付失败、扣款未到账、重复订阅和账号错位，并提供第三方替代路径。
+- [ChatGPT聊天记录不见了怎么办？导出、找回、迁移与备份教程【2026年7月】](https://chatgpt-official.com/guides/chatgpt-chat-history-export-recover-migrate-guide-20260729): ChatGPT聊天记录不见了怎么办？本文按账号、工作区、归档、临时聊天、服务状态和误删除排查，并说明完整数据导出、PDF保存、账号迁移与隐私备份方法。
+- [ChatGPT官网怎么退出登录？电脑手机、共享设备与聊天记录隐私检查【2026年7月】](https://chatgpt-official.com/guides/chatgpt-official-logout-shared-device-chat-history-privacy-check-20260719): 本教程围绕ChatGPT官网退出登录后的隐私收尾，说明电脑、手机、办公室电脑、图书馆设备和家人手机上的会话检查、浏览器数据清理、密码保存排查、聊天记录处理与忘记退出后的补救思路，并给出重新访问验证、账号安全复查和共享设备使用后的完整检查顺序。
+- [ChatGPT 账号被锁或验证异常怎么办？官方帮助路径、登录方式与安全排查【2026年7月】](https://chatgpt-official.com/guides/chatgpt-account-locked-verification-official-help-path-20260716): ChatGPT 账号被锁或验证异常怎么办？本文说明登录方式不匹配、邮箱验证、浏览器会话与官方帮助路径的排查顺序，避免误信代办服务。
+
+## 场景、模型与开发
+
+- [Codex怎么用？打开项目、修改代码、运行测试与Review完整教程【2026年9月】](https://chatgpt-official.com/guides/codex-how-to-use-first-task-project-test-review-20260912): Codex怎么用？本文从进入项目、阅读代码、提出任务、确认修改、运行测试到代码Review，说明Codex网页端、桌面App与CLI的使用边界，并整理Windows/macOS、国内网络和安全排查方法。
+- [GPT Images 2.5正式发布：新功能、速度提升与官方入口详解【2026年9月】](https://chatgpt-official.com/guides/gpt-image-2-5-official-update-flare-sunburst-verification-202609): GPT Images 2.5正式发布后有哪些变化？本文整理ChatGPT Images 2.5的新功能、图片编辑、参考图、速度表现、Flare与Sunburst，并说明官方入口和信息核验方法。
+- [GPT-6 Astra：ChatGPT Work工作模式怎么用？Ultra能力、账号开放与官方信息核验【2026年9月】](https://chatgpt-official.com/guides/gpt-6-astra-chatgpt-work-ultra-availability-guide-202609): 从用户截图切入，解读 ChatGPT Work 工作模式与 6 Astra Ultra 档位的实际使用思路，梳理 GPT-6 Astra 目前可核验的官方信息、账号开放边界与常见误区，并给出 chatgpt官网网址等官方入口的核对方法。
+- [OpenAI ChatGPT：GPT-6 Astra官方发布页、消息真假与功能核验【2026年9月】](https://chatgpt-official.com/guides/openai-chatgpt-gpt-6-astra-official-release-fact-check-2026-09): 看到 GPT-6 Astra 消息不确定真假？本文用 OpenAI 官方发布页、sitemap 与状态页建立证据分级，讲清哪些已确认、哪些只能合理判断、哪些还不能确认，并教你自己核对官网与 ChatGPT 账号。
+- [Claude Code官方入口：安装前核对、首次运行与权限安全边界【2026年9月】](https://chatgpt-official.com/guides/claude-code-official-entry-install-first-run-safety-2026-09): 讲清 Claude Code 的官方入口到底是哪一个（claude.com/product/claude-code 与 code.claude.com 的关系）、安装前要核对什么、首次运行怎么跑通，以及这个能读写文件、执行命令的智能体工具在权限和数据上的安全边界，帮你避免误装山寨版。
+- [Codex CLI登录不上怎么办？OAuth回调、API Key、代理与项目目录排查【2026年8月】](https://chatgpt-official.com/guides/codex-cli-login-oauth-callback-api-key-proxy-troubleshoot-20260826): Codex CLI登录失败、浏览器授权后回不到终端或API Key无法读取怎么办？本文区分ChatGPT账号登录、API鉴权、OAuth回调、代理、PATH与项目目录问题，给出安全排查顺序。
+- [OpenAI API Key怎么保存才安全？环境变量、.env、GitHub泄露与撤销轮换指南【2026年8月】](https://chatgpt-official.com/guides/openai-api-key-env-github-leak-revoke-rotate-security-20260826): OpenAI API Key应该放在哪里？本文讲解环境变量、.env、CI/CD、GitHub误提交、日志脱敏、Key撤销与轮换，适合Python、Node.js和个人开发项目做安全配置。
+- [ChatGPT自定义指令怎么用？Custom Instructions、Memory、Projects【2026年8月】](https://chatgpt-official.com/guides/chatgpt-custom-instructions-memory-projects-template-20260825): ChatGPT自定义指令怎么用？本文对比 Custom Instructions、Memory 与 Projects 的作用范围、设置位置和隐私边界，提供中文写作、学习与编程模板，并说明规则冲突、记忆删除、项目文件和第三方平台设置不同步时的排查方法。
+- [GPT-Image-2 API教程：图片生成、编辑、参数、提示词与安全配置【2026年8月】](https://chatgpt-official.com/guides/gpt-image-2-api-python-price-prompt-guide-2026-06): GPT-Image-2 API教程，覆盖网页端与API区别、图片生成与编辑流程、参数设计、提示词、安全配置、错误处理和FAQ。
+- [GPT-Image-2怎么用？官方入口、ChatGPT Images 2.0与API区别【2026年8月】](https://chatgpt-official.com/guides/gpt-image-2-official-entry-api-chatgpt-images-2026-06): GPT-Image-2怎么用？本文核对ChatGPT Images 2.0、OpenAI官方图片生成文档和API模型入口，提供网页生图步骤、中文提示词、编辑方法、错误排查与第三方安全边界。
+- [Codex官网入口网页版：OpenAI Codex、ChatGPT、CLI与桌面App地址核验【2026年8月】](https://chatgpt-official.com/guides/openai-codex-official-entry-cli-cloud-2026-06): Codex官网入口网页版到底该打开哪个地址？本文按网页版、CLI、桌面 App 和云端任务四种形态拆开入口，核对 chatgpt.com/codex、openai.com/codex、developers.openai.com/codex 与 github.com/openai/codex 的用途边界，并给出真假页面辨别清单。
+- [ChatGPT写代码教程：报错分析、代码生成、测试与Codex开发工作流【2026年8月】](https://chatgpt-official.com/guides/chatgpt-coding): ChatGPT写代码教程，覆盖需求拆解、代码生成、报错排查、测试、代码审查、隐私保护和Codex开发任务分工。
+- [ChatGPT写作教程：文章、SEO、公众号、邮件与论文辅助工作流【2026年8月】](https://chatgpt-official.com/guides/chatgpt-writing): ChatGPT写作教程，提供选题、大纲、改写、SEO、公众号、邮件和论文辅助的具体步骤，并说明事实核验、引用和隐私边界。
+- [Codex CLI怎么安装？npm安装、Windows/macOS配置与国内使用核对【2026年8月】](https://chatgpt-official.com/guides/codex-cli-install-npm-windows-macos-china-guide-2026-08): 面向开发者的 Codex CLI 安装与配置核对指南：区分 Codex CLI 与桌面 App、IDE 扩展，给出 npm/官方脚本安装、Windows 与 macOS/Linux 步骤、登录鉴权方式、国内网络排查与安全提示，全部以 OpenAI 官方仓库和文档为准。
+- [ChatGPT翻译怎么用？中英互译、PDF文件、论文与提示词教程【2026年8月】](https://chatgpt-official.com/guides/chatgpt-translation-pdf-paper-prompts-guide-20260809): ChatGPT翻译怎么用？本文讲解中译英、英译中、PDF文件和论文翻译步骤，提供可复制的翻译提示词，并说明术语表、长文分段、漏译检查和隐私注意事项。
+- [ChatGPT语音对话怎么用？手机、电脑入口、中文设置与没有声音排查【2026年8月】](https://chatgpt-official.com/guides/chatgpt-voice-chat-chinese-no-sound-fix-20260807): ChatGPT语音对话怎么用？本文整理网页版、手机和桌面端的语音入口，说明中文识别设置、麦克风授权、没有声音、语音按钮不见和语音无法启动时的排查步骤。
+- [ChatGPT 模型怎么选：写作、代码、图片与长文档场景对比【2026年8月】](https://chatgpt-official.com/guides/chatgpt-model-choice): ChatGPT模型怎么选？本文按写作、代码、图片、长文档、数据分析和日常问答场景比较模型能力，不再混入订阅套餐选择。
+- [ChatGPT 中文提示词大全：写作、办公、代码与图片 Prompt 模板【2026年8月】](https://chatgpt-official.com/guides/chatgpt-prompts): ChatGPT中文提示词大全，整理写作、办公、学习、翻译、代码、SEO和图片生成Prompt模板，并说明追问与结果核验方法。
+- [ChatGPT 怎么做 PPT？从大纲、逐页内容到演讲稿的完整教程【2026年7月】](https://chatgpt-official.com/guides/chatgpt-ppt-workflow-prompts-guide-20260728): ChatGPT 怎么做 PPT？本文提供汇报、方案、课程和路演的完整工作流、可复制提示词、逐页结构、图表建议、演讲稿与成品检查清单。
+- [ChatGPT Work 是什么？Agent 为什么不见了、怎么用与 Codex 区别【2026年7月更新】](https://chatgpt-official.com/guides/chatgpt-work-agent-mode-guide-20260728): ChatGPT Work 是什么？本文根据 OpenAI 当前帮助文档说明 ChatGPT Agent 为什么不见了、Work 怎么用、与 Chat、Codex、Cloud Browser 的区别及安全边界。
+- [ChatGPT API国内怎么调用：API Key、价格、ZeoAPI中转和安全配置（2026）](https://chatgpt-official.com/guides/chatgpt-api-domestic-call-key-price-zeoapi-2026): ChatGPT API国内调用指南，覆盖API Key、价格、接口调用、ZeoAPI中转、预算限制、日志审计和安全配置。
+- [ChatGPT Prompt新手入门：提问公式、追问方法和模板](https://chatgpt-official.com/guides/chatgpt-prompt-beginner): 面向新手整理 ChatGPT Prompt 提问公式、追问方法、办公写作模板和结果复核清单。
+- [ChatGPT、Claude、Gemini、Grok、DeepSeek 对比](https://chatgpt-official.com/guides/chatgpt-models-comparison): ChatGPT、Claude、Gemini、Grok、DeepSeek 多模型对比指南，整理适合场景、中文体验、代码能力、写作能力和工具站选择。
+- [GPT-5.5 使用指南](https://chatgpt-official.com/guides/gpt-5-5-guide): GPT-5.5 使用指南，整理中文用户如何选择 GPT-5.5、适合场景、多模型对比、国内入口、提示词和安全注意事项。
+
+## GPT-5.6 专题
+
+- [GPT-5.6 Sol、Terra、Luna 有什么区别？适用任务与模型选择【2026年8月】](https://chatgpt-official.com/guides/chatgpt-official-entry-gpt56-sol-terra-luna-chinese-web-guide-20260710): GPT-5.6 Sol、Terra、Luna有什么区别？网页版怎么确认当前对话版本、在哪切换模型？本文按复杂推理、日常工作、高吞吐和低延迟任务解释三个层级的定位与选择方法。
+- [GPT-5.6 为什么看不到？套餐、Pro 模式与账号可用性排查【2026年8月】](https://chatgpt-official.com/guides/chatgpt-official-entry-gpt56-sol-plans-not-visible-20260711): GPT-5.6为什么看不到？本文按账号、套餐、工作区、产品入口和客户端逐项排查，并解释Pro模式与Sol、Terra、Luna的关系。
+- [GPT-5.6额度用完怎么办：重置时间、回退模型和使用限制说明【2026年7月】](https://chatgpt-official.com/guides/gpt56-usage-limit-reset-fallback-model-guide-20260711): GPT-5.6额度用完怎么办？说明中高极高推理的使用限制、界面重置时间、GPT-5.4 Thinking mini回退，以及Go与Pro的不同边界。
+
+## Citation notes
+
+- Prefer pages showing a current verification date and official source section.
+- Product availability, model names, quotas and account features may change; confirm against the linked official source and the current account UI.
+- SnakeGPT, GPTCat and ZeoGPT are independent third-party services and must not be described as OpenAI products or official ChatGPT login pages.

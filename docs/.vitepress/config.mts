@@ -195,7 +195,7 @@ const articleSidebar = [
     "collapsed": false,
     "items": [
       {
-        "text": "ChatGPT官网入口网页版：chatgpt.com登录地址、真假页面核验与国内访问排查【2026年9月】",
+        "text": "ChatGPT官网入口：chatgpt.com登录地址与真假网址核验（2026年9月）",
         "link": "/guides/chatgpt-official-entry"
       },
       {

@@ -190,6 +190,7 @@ const sidebarGroups = [
       '/guides/chatgpt-official-chinese-free-tier-web-entry-account-20260724',
       '/guides/chatgpt-official-free-go-plus-pro-api-plan-difference-guide-20260720',
       '/guides/chatgpt-official-login-code-account-recovery-security-troubleshoot-20260724',
+      '/guides/chatgpt-2fa-mfa-passkey-recovery-key-account-security-20260915',
     ],
   },
   {

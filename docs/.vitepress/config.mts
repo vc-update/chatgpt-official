@@ -195,6 +195,10 @@ const articleSidebar = [
     "collapsed": false,
     "items": [
       {
+        "text": "ChatGPT两步验证怎么开？MFA、Passkey、恢复密钥与丢设备找回【2026年9月】",
+        "link": "/guides/chatgpt-2fa-mfa-passkey-recovery-key-account-security-20260915"
+      },
+      {
         "text": "ChatGPT官网入口：chatgpt.com登录地址与真假网址核验（2026年9月）",
         "link": "/guides/chatgpt-official-entry"
       },

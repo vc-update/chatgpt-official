@@ -12,7 +12,8 @@
 
 ## 核心入口与使用
 
-- [ChatGPT官网入口网页版：chatgpt.com登录地址、真假页面核验与国内访问排查【2026年9月】](https://chatgpt-official.com/guides/chatgpt-official-entry): ChatGPT官网入口网页版是哪个？本文核对 chatgpt.com 登录地址与 openai.com，给出网页版登录步骤、30 秒真假页面核验、国内打不开与 Access Denied 排查顺序及账号安全清单。
+- [ChatGPT两步验证怎么开？MFA、Passkey、恢复密钥与丢设备找回【2026年9月】](https://chatgpt-official.com/guides/chatgpt-2fa-mfa-passkey-recovery-key-account-security-20260915): ChatGPT两步验证在设置的Security里开启，可选验证器App、推送通知、短信或Passkey，开启后对ChatGPT和API平台同时生效。本文给出逐步路径、Passkey不显示的原因、Advanced Account Security与恢复密钥规则，以及丢手机时的处理顺序。
+- [ChatGPT官网入口：chatgpt.com登录地址与真假网址核验（2026年9月）](https://chatgpt-official.com/guides/chatgpt-official-entry): 查找 ChatGPT 官网入口？本文核对 chatgpt.com、openai.com 与 platform.openai.com 的用途，说明网页版登录步骤、真假域名 30 秒核验，以及白屏、Access Denied 和国内访问异常的排查顺序，并附官方帮助与状态页。
 - [Gemini官网怎么确认？官方入口、网页版登录与镜像站辨别核验清单【2026年9月】](https://chatgpt-official.com/guides/gemini-official-entry-web-login-mirror-verify-2026-09): 想找 Gemini 官网又怕误入镜像站？本文给出 Google 官方域名核验清单、网页版登录步骤、地区不可用排查顺序，以及官网、DeepMind 模型页与 Gemini API 三个入口的区别，帮你确认真官网。
 - [OpenAI官网入口怎么进？ChatGPT、API平台与帮助中心地址核验【2026年9月更新】](https://chatgpt-official.com/guides/openai-official-entry-chatgpt-api-platform-help-download-difference-20260721): 面向搜索OpenAI官网入口的中文用户，用一张对照表拆开openai.com、chatgpt.com、platform.openai.com、help.openai.com和status.openai.com各自的用途，给出地址核验特征、四步识别仿冒站点的清单、国内访问失败的排查思路与事实边界。更新时间仅标识本文修订批次，不承诺未公开的页面变化。
 - [ChatGPT 网页版使用教程：登录、文件上传、历史记录与多设备【2026国内完整指南】](https://chatgpt-official.com/guides/chatgpt-web-version-login-guide): ChatGPT网页版怎么用？本文覆盖官方入口、注册登录、文件上传、聊天记录、多设备同步、手机浏览器、常见错误和第三方中文平台边界。

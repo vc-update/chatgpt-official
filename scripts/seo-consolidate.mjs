@@ -220,6 +220,7 @@ const sidebarGroups = [
     routes: [
       '/guides/gpt-6-astra-chatgpt-work-ultra-availability-guide-202609',
       '/guides/openai-chatgpt-gpt-6-astra-official-release-fact-check-2026-09',
+      '/guides/claude-official-entry-region-availability-login-verify-2026-09',
       '/guides/claude-code-official-entry-install-first-run-safety-2026-09',
       '/guides/chatgpt-custom-instructions-memory-projects-template-20260825',
       '/guides/codex-cli-login-oauth-callback-api-key-proxy-troubleshoot-20260826',

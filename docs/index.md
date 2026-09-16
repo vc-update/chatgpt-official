@@ -126,6 +126,7 @@ lastUpdated: 2026-09-16
 | 更新时间 | 文章 | 覆盖方向 |
 | :--- | :--- | :--- |
 | 2026-09-16 | [ChatGPT 官网与中文版使用终极指南（支持 GPT-6、GPT-5.6 Sol）【2026年9月权威更新】](/guides/chatgpt-official-entry) | ChatGPT 官网入口是 chatgpt.com，OpenAI 公司官网是 openai.com。本文核对官方域名分工与网页版登录步骤，说明 GPT-6 Astra 与 GPT-5.6 Sol 当前哪些已确认、哪些不能确认，并覆盖中文版边界、模型选择、使用方法、场景与真假核验。 |
+| 2026-09-16 | [Claude官网入口怎么进？claude.ai与claude.com关系、登录步骤与地区不可用核验【2026年9月】](/guides/claude-official-entry-region-availability-login-verify-2026-09) | Claude 官网入口是 claude.com，claude.ai 会跳转到同一体系。本文核对 Anthropic 官方域名分工、183 个支持地区清单（中国大陆、香港、澳门不在列）、App unavailable in region 的判断方法、网页版登录步骤与镜像站风险。 |
 | 2026-09-15 | [ChatGPT两步验证怎么开？MFA、Passkey、恢复密钥与丢设备找回【2026年9月】](/guides/chatgpt-2fa-mfa-passkey-recovery-key-account-security-20260915) | ChatGPT两步验证在设置的Security里开启，可选验证器App、推送通知、短信或Passkey，开启后对ChatGPT和API平台同时生效。本文给出逐步路径、Passkey不显示的原因、Advanced Account Security与恢复密钥规则，以及丢手机时的处理顺序。 |
 | 2026-09-12 | [Codex怎么用？打开项目、修改代码、运行测试与Review完整教程【2026年9月】](/guides/codex-how-to-use-first-task-project-test-review-20260912) | Codex怎么用？本文从进入项目、阅读代码、提出任务、确认修改、运行测试到代码Review，说明Codex网页端、桌面App与CLI的使用边界，并整理Windows/macOS、国内网络和安全排查方法。 |
 | 2026-09-12 | [OpenAI API Python教程：环境变量、Responses API最小调用与模型核验【2026年9月】](/guides/openai-api-python-minimal-responses-env-model-20260912) | OpenAI API Python怎么调用？本文从创建项目、保存API Key、安装SDK、编写Responses API最小示例到401、403、404、429排错，说明ChatGPT网页、OpenAI API和第三方接口的区别。 |
@@ -136,5 +137,4 @@ lastUpdated: 2026-09-16
 | 2026-09-03 | [Claude Code官方入口：安装前核对、首次运行与权限安全边界【2026年9月】](/guides/claude-code-official-entry-install-first-run-safety-2026-09) | 讲清 Claude Code 的官方入口到底是哪一个（claude.com/product/claude-code 与 code.claude.com 的关系）、安装前要核对什么、首次运行怎么跑通，以及这个能读写文件、执行命令的智能体工具在权限和数据上的安全边界，帮你避免误装山寨版。 |
 | 2026-09-03 | [Codex下载：OpenAI Codex官方下载地址、Windows/macOS安装与真假辨别【2026年9月】](/guides/codex-download-official-address-windows-macos-verify-2026-09) | 2026年9月整理OpenAI Codex的官方下载路径：openai.com/codex官网入口、GitHub官方仓库、Codex CLI（npm）与桌面App在Windows/macOS上的获取方式，附真假下载页辨别、国内网络与合规提醒、首次登录与报错排查清单。 |
 | 2026-09-03 | [Gemini官网怎么确认？官方入口、网页版登录与镜像站辨别核验清单【2026年9月】](/guides/gemini-official-entry-web-login-mirror-verify-2026-09) | 想找 Gemini 官网又怕误入镜像站？本文给出 Google 官方域名核验清单、网页版登录步骤、地区不可用排查顺序，以及官网、DeepMind 模型页与 Gemini API 三个入口的区别，帮你确认真官网。 |
-| 2026-09-03 | [OpenAI官网入口怎么进？ChatGPT、API平台与帮助中心地址核验【2026年9月更新】](/guides/openai-official-entry-chatgpt-api-platform-help-download-difference-20260721) | 面向搜索OpenAI官网入口的中文用户，用一张对照表拆开openai.com、chatgpt.com、platform.openai.com、help.openai.com和status.openai.com各自的用途，给出地址核验特征、四步识别仿冒站点的清单、国内访问失败的排查思路与事实边界。更新时间仅标识本文修订批次，不承诺未公开的页面变化。 |
 <!-- latest-updates:end -->

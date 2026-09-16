@@ -43,6 +43,7 @@ https://chatgpt-official.com/guides/chatgpt-web-version-login-guide
 https://chatgpt-official.com/guides/chatgpt-work-agent-mode-guide-20260728
 https://chatgpt-official.com/guides/chatgpt-writing
 https://chatgpt-official.com/guides/claude-code-official-entry-install-first-run-safety-2026-09
+https://chatgpt-official.com/guides/claude-official-entry-region-availability-login-verify-2026-09
 https://chatgpt-official.com/guides/codex-cli-install-npm-windows-macos-china-guide-2026-08
 https://chatgpt-official.com/guides/codex-cli-login-oauth-callback-api-key-proxy-troubleshoot-20260826
 https://chatgpt-official.com/guides/codex-download-official-address-windows-macos-verify-2026-09

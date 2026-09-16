@@ -9,7 +9,16 @@ const siteDescription =
 const organizationId = `${siteUrl}/#organization`
 const editorialTeamId = `${siteUrl}/about#editorial-team`
 const logoUrl = `${siteUrl}/logo.svg`
-const officialSourceDomains = ['chatgpt.com', 'openai.com', 'help.openai.com', 'status.openai.com', 'platform.openai.com', 'developers.openai.com']
+const officialSourceDomains = [
+  'chatgpt.com',
+  'openai.com',
+  'help.openai.com',
+  'status.openai.com',
+  'platform.openai.com',
+  'developers.openai.com',
+  'anthropic.com',
+  'claude.com'
+]
 const docsRoot = join(process.cwd(), 'docs')
 
 const mainGuides = [
@@ -338,6 +347,10 @@ const articleSidebar = [
     "text": "场景、模型与开发",
     "collapsed": false,
     "items": [
+      {
+        "text": "Claude官网入口怎么进？claude.ai与claude.com关系、登录步骤与地区不可用核验【2026年9月】",
+        "link": "/guides/claude-official-entry-region-availability-login-verify-2026-09"
+      },
       {
         "text": "Codex怎么用？打开项目、修改代码、运行测试与Review完整教程【2026年9月】",
         "link": "/guides/codex-how-to-use-first-task-project-test-review-20260912"

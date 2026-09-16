@@ -51,6 +51,7 @@
 
 ## 场景、模型与开发
 
+- [Claude官网入口怎么进？claude.ai与claude.com关系、登录步骤与地区不可用核验【2026年9月】](https://chatgpt-official.com/guides/claude-official-entry-region-availability-login-verify-2026-09): Claude 官网入口是 claude.com，claude.ai 会跳转到同一体系。本文核对 Anthropic 官方域名分工、183 个支持地区清单（中国大陆、香港、澳门不在列）、App unavailable in region 的判断方法、网页版登录步骤与镜像站风险。
 - [Codex怎么用？打开项目、修改代码、运行测试与Review完整教程【2026年9月】](https://chatgpt-official.com/guides/codex-how-to-use-first-task-project-test-review-20260912): Codex怎么用？本文从进入项目、阅读代码、提出任务、确认修改、运行测试到代码Review，说明Codex网页端、桌面App与CLI的使用边界，并整理Windows/macOS、国内网络和安全排查方法。
 - [GPT Images 2.5正式发布：新功能、速度提升与官方入口详解【2026年9月】](https://chatgpt-official.com/guides/gpt-image-2-5-official-update-flare-sunburst-verification-202609): GPT Images 2.5正式发布后有哪些变化？本文整理ChatGPT Images 2.5的新功能、图片编辑、参考图、速度表现、Flare与Sunburst，并说明官方入口和信息核验方法。
 - [GPT-6 Astra：ChatGPT Work工作模式怎么用？Ultra能力、账号开放与官方信息核验【2026年9月】](https://chatgpt-official.com/guides/gpt-6-astra-chatgpt-work-ultra-availability-guide-202609): 从用户截图切入，解读 ChatGPT Work 工作模式与 6 Astra Ultra 档位的实际使用思路，梳理 GPT-6 Astra 目前可核验的官方信息、账号开放边界与常见误区，并给出 chatgpt官网网址等官方入口的核对方法。

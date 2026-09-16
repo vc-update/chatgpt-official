@@ -29,7 +29,7 @@ features:
   - title: Codex CLI 与开发任务
     details: 整理 Codex 网页入口、CLI、桌面 App、API 和开发者安全配置，优先引用官方渠道。
     link: /guides/codex-cli-install-npm-windows-macos-china-guide-2026-08
-lastUpdated: 2026-09-15
+lastUpdated: 2026-09-16
 ---
 
 > 独立声明：本站是面向中文用户整理的 ChatGPT 使用指南，不属于 OpenAI 或 ChatGPT 官方网站。ChatGPT 官方入口请以 `chatgpt.com` 和 `openai.com` 为准。
@@ -125,8 +125,8 @@ lastUpdated: 2026-09-15
 
 | 更新时间 | 文章 | 覆盖方向 |
 | :--- | :--- | :--- |
+| 2026-09-16 | [ChatGPT 官网与中文版使用终极指南（支持 GPT-6、GPT-5.6 Sol）【2026年9月权威更新】](/guides/chatgpt-official-entry) | ChatGPT 官网入口是 chatgpt.com，OpenAI 公司官网是 openai.com。本文核对官方域名分工与网页版登录步骤，说明 GPT-6 Astra 与 GPT-5.6 Sol 当前哪些已确认、哪些不能确认，并覆盖中文版边界、模型选择、使用方法、场景与真假核验。 |
 | 2026-09-15 | [ChatGPT两步验证怎么开？MFA、Passkey、恢复密钥与丢设备找回【2026年9月】](/guides/chatgpt-2fa-mfa-passkey-recovery-key-account-security-20260915) | ChatGPT两步验证在设置的Security里开启，可选验证器App、推送通知、短信或Passkey，开启后对ChatGPT和API平台同时生效。本文给出逐步路径、Passkey不显示的原因、Advanced Account Security与恢复密钥规则，以及丢手机时的处理顺序。 |
-| 2026-09-13 | [ChatGPT官网入口：chatgpt.com登录地址与真假网址核验（2026年9月）](/guides/chatgpt-official-entry) | 查找 ChatGPT 官网入口？本文核对 chatgpt.com、openai.com 与 platform.openai.com 的用途，说明网页版登录步骤、真假域名 30 秒核验，以及白屏、Access Denied 和国内访问异常的排查顺序，并附官方帮助与状态页。 |
 | 2026-09-12 | [Codex怎么用？打开项目、修改代码、运行测试与Review完整教程【2026年9月】](/guides/codex-how-to-use-first-task-project-test-review-20260912) | Codex怎么用？本文从进入项目、阅读代码、提出任务、确认修改、运行测试到代码Review，说明Codex网页端、桌面App与CLI的使用边界，并整理Windows/macOS、国内网络和安全排查方法。 |
 | 2026-09-12 | [OpenAI API Python教程：环境变量、Responses API最小调用与模型核验【2026年9月】](/guides/openai-api-python-minimal-responses-env-model-20260912) | OpenAI API Python怎么调用？本文从创建项目、保存API Key、安装SDK、编写Responses API最小示例到401、403、404、429排错，说明ChatGPT网页、OpenAI API和第三方接口的区别。 |
 | 2026-09-09 | [GPT Images 2.5正式发布：新功能、速度提升与官方入口详解【2026年9月】](/guides/gpt-image-2-5-official-update-flare-sunburst-verification-202609) | GPT Images 2.5正式发布后有哪些变化？本文整理ChatGPT Images 2.5的新功能、图片编辑、参考图、速度表现、Flare与Sunburst，并说明官方入口和信息核验方法。 |
